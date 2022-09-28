@@ -15,14 +15,14 @@ A game of Candy Crush created using Assembly Language
 
 # Level 1:
 
--The items in the tiles are candies of different shapes, match 3 or more shapes in a vertical or horizontal line to crush the candies and score points:
+- The items in the tiles are candies of different shapes, match 3 or more shapes in a vertical or horizontal line to crush the candies and score points:
 (The red item is the bomb. Swap it with any other candy and all the candies of that specific color will be crushed)
 
 ![image](https://user-images.githubusercontent.com/114500718/192822533-02500d61-cac6-476e-8999-628354fed036.png)
 
--Beat the target score before the moves run out!
+- Beat the target score before the moves run out!
 
--Score the most amount of score for your high score to be saved!
+- Score the most amount of score for your high score to be saved!
 
 # Level 2:
 
