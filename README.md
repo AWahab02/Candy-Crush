@@ -2,12 +2,15 @@
 A game of Candy Crush created using Assembly Language
 
 1.An animated title screen is displayed which asks for the user's name:
+
 ![image](https://user-images.githubusercontent.com/114500718/192817944-fcb75ab5-f489-4558-9089-e2c4e8b9bcbc.png)
 
 2.An instruction screen is displayed:
+
 ![image](https://user-images.githubusercontent.com/114500718/192818400-99b770df-14e2-4787-a15b-fd2a1fd3386b.png)
 
 3.The game screen is displayed next:
+
 ![image](https://user-images.githubusercontent.com/114500718/192818628-e1206a45-ae66-4a3e-9172-172acc47f15f.png)
 
 Level 1:
