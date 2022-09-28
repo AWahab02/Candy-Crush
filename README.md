@@ -22,9 +22,11 @@ Level 1:
 -Score the most amount of score for your high score to be saved!
 
 Level 2:
+
 ![image](https://user-images.githubusercontent.com/114500718/192821199-a862a73d-4c36-41b9-ac71-77a81aecc8ee.png)
 
 Level 3:
+
 ![image](https://user-images.githubusercontent.com/114500718/192822250-f9ebd6a5-2c1a-4ffb-a2d0-210517d72da6.png)
 
 
